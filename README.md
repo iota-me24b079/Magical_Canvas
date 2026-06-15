@@ -209,6 +209,5 @@ The tests generate synthetic colored objects and verify that the tracker can det
 
 All webcam processing happens locally on your computer. The app does not upload frames or drawings anywhere.
 
-## GitHub Checklist
+## License
 
-Before publishing, update the repository URL in this README and optionally add a screenshot or GIF demo. The code, dependencies, tests, and project metadata are already organized so you can push the folder directly to GitHub.
