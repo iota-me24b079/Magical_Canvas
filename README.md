@@ -211,3 +211,4 @@ All webcam processing happens locally on your computer. The app does not upload 
 
 ## License
 
+This project’s source code is released under the MIT License.
